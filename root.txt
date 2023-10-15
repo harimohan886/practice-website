@@ -1,1 +1,3 @@
-this is the temprearoy file 
+this of `:wq!
+ is the temprearoy file 
+
